@@ -1,6 +1,9 @@
 ## Hi there 👋, 
 My name is Mokshith K Y Gowda , I am a computer science student. I am intersted in fullstack development and know python, java programmming languages.
-🌱 I’m currently learning MERN Fullstack development
+📖 Portfolio link(https://mokshith07gowda.github.io/mokshith-port/).
+🌱 I’m currently learning MERN Fullstack development\
+📫 You can reach me on mokshithkygowda@gmail.com
+
 
 <!--
 **Mokshith07gowda/Mokshith07gowda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
